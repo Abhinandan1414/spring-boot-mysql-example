@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMySqlApplication<spring-boot-mysql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "guru.springframework.SpringBootMySqlApplication",
+            "projectName": "spring-boot-mysql",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
